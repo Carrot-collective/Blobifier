@@ -24,7 +24,7 @@ Depending on how you want your wiring configured you can:
 ![image](https://github.com/user-attachments/assets/14258d97-f9e1-4cac-bfc9-167bec1dcf40)
 
 ## Assembly
-Printed parts are not shrinkage compensated. Please ensure appropriate shrinkage compensation is set in the slicer!
+Printed parts are not shrinkage compensated. Please ensure appropriate shrinkage compensation is set in the slicer! Parts with varying tolerances are provided (rack, pinions). Print all of them and test the ones that provide the optimal fit.
 
 1. Insert the spacer in the stepper (optional - if stepper shaft is longer than 20mm)
 2. Try the three pinions and use the one that can be inserted with a moderate amount of force and press until seated fully.
