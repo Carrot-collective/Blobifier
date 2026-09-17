@@ -14,7 +14,7 @@ A modified version of the shaker arm and shaker to fit the A4T toolhead.
 ## Which version to pick
 
 ### Shaker
-There are two versions of the shaker. Depending on your bed placement and overall z height of your blobifier you may get a better shaking "experience" with the Shaker_A4T_tighter_fit model. 
+There are three versions of the shaker. Depending on your bed placement and overall z height of your blobifier you may get a better shaking "experience" with the Shaker_A4T_tighter_fit model. Third model added if you are having issues with v2.4 XY joint bolt clearance.
 
 ### Shaker arm
 There are two versions of the shaker arm. If you experience the arm sagging with the normal version you can try the Shaker_Arm_A4T_flat_with_deck model.
